@@ -1,1 +1,16 @@
-{}
+{
+  "2048.nvim": { "branch": "main", "commit": "aee7c41a9a9473117465132768ae4b4da97435c3" },
+  "cellular-automaton.nvim": { "branch": "main", "commit": "1606e9d5d04ff254023c3f3c62842d065708d6d3" },
+  "duck.nvim": { "branch": "main", "commit": "d8a6b08af440e5a0e2b3b357e2f78bb1883272cd" },
+  "hologram.nvim": { "branch": "main", "commit": "c91aa77121162d8ff554b18a487a3f60677447f2" },
+  "killersheep.nvim": { "branch": "master", "commit": "d916d097af8c86481053045be2e468fa7cb312c5" },
+  "lazy.nvim": { "branch": "main", "commit": "306a05526ada86a7b30af95c5cc81ffba93fef97" },
+  "mini.animate": { "branch": "main", "commit": "6cf2bc01dd074d4b2ec606b40ea3c7c9f1dc99cc" },
+  "nui.nvim": { "branch": "main", "commit": "10fc361835c856ba4233ef5ea135b919bf3dce97" },
+  "nvim-treesitter": { "branch": "main", "commit": "29212d826054bb2948fa9d3a99eca9bf6a050eb2" },
+  "pets.nvim": { "branch": "main", "commit": "8a443e2eae804e5abe21b5d00ceaef4041f882e4" },
+  "smear-cursor.nvim": { "branch": "main", "commit": "f6cb57c342268177f719acc3968b9d8de3ecc969" },
+  "snake.nvim": { "branch": "main", "commit": "92f5c020bb5de4ef841a48b03e8a3030b472d4b6" },
+  "sudoku.nvim": { "branch": "main", "commit": "c7dfd2f9fc7108ef3832a02f40a76ab1b2d940ce" },
+  "tetris.nvim": { "branch": "main", "commit": "e2a97e7c722adeb2c397fccbad341d5c8d8fcaef" }
+}
